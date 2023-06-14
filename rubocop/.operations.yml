@@ -1,0 +1,14 @@
+# Cops in this file will be enforced across all Operations Hive repositories.
+
+inherit_from:
+  - ./.hive.yml
+
+# Just for Chris.
+Style/SpaceInsideHashLiteralBraces:
+  Enabled: true
+  EnforcedStyle: space
+
+# The best kind of quotes.
+Style/StringLiterals:
+  Enabled: true
+  EnforcedStyle: single_quotes

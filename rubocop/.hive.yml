@@ -1,0 +1,6 @@
+# Cops in this file will be enforced across all Hive repositories.
+
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 3.1
+
