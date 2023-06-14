@@ -1,0 +1,4 @@
+# Cops in this file will be enforced across all Commercial Hive repositories.
+
+inherit_from:
+  - ./.hive.yml
